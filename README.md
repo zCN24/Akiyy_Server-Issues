@@ -35,6 +35,7 @@
 ## 更新日志
 - 枫林月语V1.0.3（已废弃）
 - [枫林月语V2.0.0](https://github.com/zCN24/Akiyy_Server-Issues/blob/main/changelogs/V2.0.0.md)
-
+- [枫林月语V2.0.1](https://github.com/zCN24/Akiyy_Server-Issues/blob/main/changelogs/V2.0.1.md)
+- 
 目前服务器版本：1.21.1 (Fabric)
 最后更新：2026-01-30
