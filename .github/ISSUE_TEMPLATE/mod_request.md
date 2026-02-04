@@ -28,7 +28,7 @@ assignees: ''
 - [ ] 不确定（希望服主帮忙测试）
 
 **对应 Minecraft / Loader 版本**  
-例：1.20.1 - Fabric / Forge / Quilt
+1.21.1 - Fabric / Quilt
 
 **其他说明 / 替代方案**  
 如果这个mod加不了，有没有类似的替代品你也接受？
