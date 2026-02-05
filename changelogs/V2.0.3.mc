@@ -1,0 +1,46 @@
+# 枫林月语整合包 v2.0.3 更新日志
+
+- **发布日期**：2026-02-05
+- **Minecraft 版本**：1.21.1
+- **Loader**：Fabric
+- **客户端更新类型**：轻量优化 / Fix Bugs / 兼容 Akiyy Server
+- **更新标签**：update-log
+
+## 本次主要更新亮点
+
+1. **新增共享原理图(Syncmatica) Mod**
+   - 根据 [Issue #3](https://github.com/zCN24/Akiyy_Server-Issues/issues/3) 的请求，新增 [Syncmatica](https://www.mcmod.cn/class/6842.html) Mod，此次更新并未对Mod本体进行修改，如需要，请自行修改配置
+   - 本Mod面向于投影(litematica) Mod用户提供服务
+   - Syncmatica 模组可以使您在服务器中与其他安装了 Syncmatica 模组的玩家一起共享 Litematica 模组的原理图及其位置
+
+3. **游戏性能小幅优化**  
+   - 降低整体内存占用  
+   - 修复因MCEF导致的游戏崩溃问题
+
+4. **修复关键Bug**  
+   - 修复因分辨率(2k、4k)问题而导致的主页面UI偏移问题，优化主界面因锚点问题而导致的UI重叠问题
+   - 修复 鹊桥Mod 因Json文件格式问题而导致的输出语言无法按照预期lang格式输出
+
+
+## 下一步待办 / 计划更新（v2.x.x 后续版本）
+
+1. 进一步深度适配 Akiyy 服务器  
+   - 针对 Akiyy 特有插件/规则进行更多兼容调整  
+   - 测试多人在线稳定性
+
+
+其他待考虑：
+- 收集玩家反馈后决定是否添加/移除特定 mod
+- 可能的小版本修复（如果有新崩溃报告）
+
+## 下载 & 安装提醒
+
+- **最新下载**：[ 点击此处下载最新release ](https://github.com/zCN24/Akiyy_Server-Issues/releases/tag/Release)
+- **安装方式**：使用 PCL 启动器导入  
+- **首次进服**：需保持网络畅通，自动下载资源（约 300 MB，视网络情况）  
+- **建议**：更新前备份旧世界存档
+
+欢迎在 Issues 或群里反馈任何使用中的问题！  
+感谢大家的支持，枫林月语会继续优化下去～
+
+@愫 （自用标记）
