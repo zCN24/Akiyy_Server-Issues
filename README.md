@@ -1,4 +1,4 @@
-<img width="494" height="629" alt="image" src="https://github.com/user-attachments/assets/1cea8285-7021-4138-88e1-e6b6999fe515" /><img width="494" height="629" alt="image" src="https://github.com/user-attachments/assets/1cea8285-7021-4138-88e1-e6b6999fe515" /># Akiyy Minecraft Server 反馈中心
+# Akiyy Minecraft Server 反馈中心
 
 这里是专门用来收集大家游玩时的**问题、崩溃、建议、想加的mod、平衡调整**的地方～  
 
