@@ -1,12 +1,13 @@
-# Akiyy Minecraft Server 反馈中心
+# Akiyy Server 反馈中心
 
-这里是专门用来收集大家游玩时的**问题、崩溃、建议、想加的mod、平衡调整**的地方～  
+这里是专门用来收集大家游玩时的**问题、崩溃、建议、想加的mod、平衡调整**的地方
 
 ## 如何提交反馈
 
 1. 点击右上角绿色的 **New issue** 按钮  
 2. 选择下面合适的模板（如果有）或者直接用空白的  
 3. 写清楚标题 + 描述 → Submit new issue
+4. 选择对应游戏 (Minecraft/CS2) 标签
 
 ## 建议的反馈内容
 
@@ -37,6 +38,6 @@
 - [枫林月语V2.0.0](https://github.com/zCN24/Akiyy_Server-Issues/blob/main/changelogs/V2.0.0.md)
 - [枫林月语V2.0.1](https://github.com/zCN24/Akiyy_Server-Issues/blob/main/changelogs/V2.0.1.md)
 - [枫林月语V2.0.3](https://github.com/zCN24/Akiyy_Server-Issues/blob/main/changelogs/V2.0.3.md)
- 
-目前服务器版本：1.21.1 (Fabric)
-最后更新：2026-01-30
+- 新接入 Akiyy-CS2 服务器
+目前Minecraft服务器版本：1.21.1 (Fabric)
+最后更新：2026-03-05
