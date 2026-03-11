@@ -2,6 +2,15 @@
 
 这里是专门用来收集大家游玩时的**问题、崩溃、建议、想加的mod、平衡调整**的地方
 
+## Akiyy Hub 开源项目
+
+### Minecraft
+- [Minecraft 个人信息后台](https://github.com/zCN24/akiyy-minecraft-web)
+
+### CS2
+- [CS2 启动器](https://github.com/zCN24/CS2Launcher)
+- [Nonebot Plugin](https://github.com/Akiyy-hub/nonebot-plugin-cs2bridge)
+
 ## 如何提交反馈
 
 1. 点击右上角绿色的 **New issue** 按钮  
