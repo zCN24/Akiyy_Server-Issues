@@ -9,7 +9,7 @@
 
 ### CS2
 - [CS2 启动器](https://github.com/zCN24/CS2Launcher)
-- [Nonebot Plugin](https://github.com/Akiyy-hub/nonebot-plugin-cs2bridge)
+- [Nonebot Plugin](https://github.com/Akiyy-Lab/nonebot-plugin-cs2bridge)
 
 ## 如何提交反馈
 
